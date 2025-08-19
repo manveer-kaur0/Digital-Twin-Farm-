@@ -15,9 +15,3 @@ A simple Digital Twin prototype for farms using **Python**, **Streamlit**, and *
 2. **Forecasting (LSTM)** – Predicts moisture for 6–24 hours ahead.
 3. **Dashboard** – Shows current levels, forecasts, and irrigation advice.
 
-## 🚀 Run It
-```bash
-pip install pandas matplotlib streamlit tensorflow
-python step1_data.py
-python step2_lstm.py
-streamlit run app.py
