@@ -14,4 +14,3 @@ A simple Digital Twin prototype for farms using **Python**, **Streamlit**, and *
 1. **Data Generation** – Simulates hourly soil moisture readings with random variations.
 2. **Forecasting (LSTM)** – Predicts moisture for 6–24 hours ahead.
 3. **Dashboard** – Shows current levels, forecasts, and irrigation advice.
-
